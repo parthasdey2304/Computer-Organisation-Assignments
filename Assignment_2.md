@@ -1,5 +1,3 @@
-Sure, let's tackle each of these questions one by one.
-
 ### 1. Using Booth’s Algorithm to Compute -3 * 7
 
 Booth's algorithm is an efficient way to perform multiplication of binary numbers. It works with signed two's complement numbers. Let's compute \(-3 \times 7\).
