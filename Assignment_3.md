@@ -113,7 +113,3 @@ Computer systems utilize various types of memory, each serving different purpose
    - **Drawbacks**: Can add computational overhead, potentially impacting performance.
 
 These techniques collectively help extend the usable memory of a system, enabling it to handle more complex and larger-scale tasks efficiently.
-
----
-
-This format provides detailed explanations and discussions appropriate for an assignment on computer memory systems.
